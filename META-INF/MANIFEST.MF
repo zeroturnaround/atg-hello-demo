@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+ATG-Builder: andres.luuk@zeroturnaround.com
+ATG-Product: atg-hello-demo
+ATG-Version: 10.1
+ATG-Config-Path: config/
+ATG-Class-Path: lib/commons-dbcp.jar lib/hsqldb.jar services 
+ATG-Web-Module: demo
